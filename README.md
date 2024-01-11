@@ -11,7 +11,7 @@
 
 ## Page
 * Normal Data Rendering (Get/Delete)
-* Create
+* Create (PUT)
 * Update
 
 ## How to Run
